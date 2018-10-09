@@ -1,0 +1,5 @@
+#!/usr/bin/php
+
+<?php
+
+require('app/bootstrap.php');
